@@ -24,5 +24,5 @@ AIFFEL에서는 경쟁보다는 상생을 추구하는 자기주도적인 지원
 Agumentation (CupMix, Mixup)
 - [\[Project2\]-Augmentation_CutMix_Mixup.ipynb](https://github.com/gotjd709/AIFFEL_Going_Deeper_CV/blob/master/%5BProject2%5D-Augmentation_CutMix_Mixup.ipynb)
 
-Object Detection ()
+Object Detection (Autonomous Vehicle)
 - [\[Project3\]-Object_Detection_GoStop](https://github.com/gotjd709/AIFFEL_Going_Deeper_CV/blob/master/%5BProject3%5D-Object_Detection_GoStop.ipynb)
