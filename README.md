@@ -21,8 +21,33 @@ AIFFEL에서는 경쟁보다는 상생을 추구하는 자기주도적인 지원
 <br/>
 <br/>
 
+### Model Architecture
+
+ResNet
+- [\[Project1\]-ResNet_Ablation_Study.ipynb](https://github.com/gotjd709/AIFFEL_Going_Deeper_CV/blob/master/%5BProject1%5D-ResNet_Ablation_Study.ipynb)
+  - [내용정리](https://github.com/vg-rlo/weekly-deeplearning-study/blob/master/lecture_week1/CV_L1_ResNet_ModelOptimization.ipynb)
+
+Unet++( + Segmentation)
+- [\[Project4\]-Nest_Net.ipynb](https://github.com/gotjd709/AIFFEL_Going_Deeper_CV/blob/master/%5BProject4%5D-Nest_Net.ipynb)
+  - [내용정리](https://github.com/vg-rlo/weekly-deeplearning-study/blob/master/lecture_week2/CV_L4_Segmentation_LHS.ipynb)
+
+
+
+### Data Preprocessing
+
 Agumentation (CupMix, Mixup)
 - [\[Project2\]-Augmentation_CutMix_Mixup.ipynb](https://github.com/gotjd709/AIFFEL_Going_Deeper_CV/blob/master/%5BProject2%5D-Augmentation_CutMix_Mixup.ipynb)
+  - [내용정리](https://github.com/vg-rlo/weekly-deeplearning-study/blob/master/lecture_week1/CV_L2_Agumentation.ipynb)
+
+
+
+### Object Detection
 
 Object Detection (Autonomous Vehicle)
 - [\[Project3\]-Object_Detection_GoStop](https://github.com/gotjd709/AIFFEL_Going_Deeper_CV/blob/master/%5BProject3%5D-Object_Detection_GoStop.ipynb)
+  - [내용정리](https://github.com/vg-rlo/weekly-deeplearning-study/blob/master/lecture_week2/CV_L3_ObjectDetection_LHS.ipynb)
+
+
+CAM, Grad-CAM (XAI)
+- [\[Project5\]-Class_Activation_Map.ipynb](https://github.com/gotjd709/AIFFEL_Going_Deeper_CV/blob/master/%5BProject5%5D-Class_Activation_Map.ipynb)
+  - [내용정리](https://github.com/vg-rlo/weekly-deeplearning-study/blob/master/lecture_week3/CV_L5_Class_Activation_Map_LHS.ipynb)
